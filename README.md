@@ -1,7 +1,7 @@
 # Tech_News_Scraper
 
 ## Description
-A web scraper project written in Go meant to address tech dummies who aren't up to date with the latest scoop.
+A web scraper project written in Go meant to keep users up to date with the latest scoop.
 The code scrapes various tech news/blog websites like techcrunch.com, wired.com, theverge.com, ycombinator.com to create an aggregate pdf with the top news items for the day along with their one liner summaries and links to actual articles. The task has been automated by a cron so that the pdf gets emailed to the user on a daily frequency.
 
 ## Data Sources
